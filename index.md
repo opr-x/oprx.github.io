@@ -10,7 +10,7 @@ OprX项目
 OprX系列
 -------------------------------------------------------------------
 
-根据OpenWRT的分支，OprX提供2个系列:
+根据OpenWRT的分支，OprX提供3个系列:
 
 1、eS最新系列：
 
@@ -18,7 +18,11 @@ OprX系列
 
 2、oR稳定系列
 
-* 源于[官方OpenWRT最新稳定版](https://github.com/openwrt/openwrt)的OprX_oR系列。[下载地址1](https://www.123pan.com/s/Nzv9-3M2od.html) +++++  [下载地址2](https://pan.oprx.top/oR_openwrt) 
+* 源于[官方OpenWRT最新稳定版](https://github.com/openwrt/openwrt)的OprX_oR系列。[下载地址1](https://www.123pan.com/s/Nzv9-3M2od.html) +++++  [下载地址2](https://pan.oprx.top/oR_openwrt)
+
+3、oP超前系列
+
+* 源于[Sbwml大神的超前内核版](https://github.com/sbwml)的OprX_oP系列。[下载地址1](https://www.123684.com/s/Nzv9-UIOod) +++++  [下载地址2](https://pan.oprx.top/oP_openwrt) 
 
 OprX提醒
 -------------------------------------------------------------------
@@ -38,7 +42,7 @@ OprX免责
 
 捐赠助力
 -------------------------------------------------------------------
-* 有你的捐赠，我将做得更好！[点我直达](https://afdian.net/a/ilxp9/plan)
+* 有你的捐赠，我将做得更好！[点我直达](https://afdian.com/a/ioprx/plan)
 
 
 开源致谢
