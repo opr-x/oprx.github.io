@@ -14,15 +14,15 @@ OprX系列
 
 1、eS最新系列：
 
-* 源于[Lean大神的LEDE源码](https://github.com/coolsnowwolf/lede)的OprX_eS系列。[下载地址1](https://www.123pan.com/s/Nzv9-hM2od.html)  +++++  [下载地址2](https://pan.oprx.top/eS_lede)
+* 源于[Lean大神的LEDE源码](https://github.com/coolsnowwolf/lede)的OprX_eS系列。[下载地址1](https://www.123pan.com/s/Nzv9-hM2od.html)  +++++  [下载地址2](https://pan.oprx.top)
 
 2、oR稳定系列
 
-* 源于[官方OpenWRT最新稳定版](https://github.com/openwrt/openwrt)的OprX_oR系列。[下载地址1](https://www.123pan.com/s/Nzv9-3M2od.html) +++++  [下载地址2](https://pan.oprx.top/oR_openwrt)
+* 源于[官方OpenWRT最新稳定发行版](https://github.com/openwrt/openwrt)的OprX_oR系列。[下载地址1](https://www.123pan.com/s/Nzv9-3M2od.html) +++++  [下载地址2](https://pan.oprx.top)
 
 3、oP超前系列
 
-* 源于[Sbwml大神的超前内核版](https://github.com/sbwml)的OprX_oP系列。[下载地址1](https://www.123684.com/s/Nzv9-UIOod) +++++  [下载地址2](https://pan.oprx.top/oP_openwrt) 
+* 源于[官方OpenWRT最新稳定分支](https://github.com/openwrt/openwrt)的OprX_oP系列。[下载地址1](https://www.123684.com/s/Nzv9-UIOod) +++++  [下载地址2](https://pan.oprx.top) 
 
 OprX提醒
 -------------------------------------------------------------------
@@ -48,7 +48,7 @@ OprX免责
 开源致谢
 -------------------------------------------------------------------
 
-  * 特别感谢[OpenWRT团队](https://github.com/openwrt/openwrt)，[Lean大雕](https://github.com/coolsnowwolf/lede)，[ImmortalWRT团队](https://github.com/immortalwrt/immortalwrt)，[Kiddin9大神](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)，[Lienol大神](https://github.com/lienol/openwrt)。
+  * 特别感谢[OpenWRT团队](https://github.com/openwrt/openwrt)，[Lean大雕](https://github.com/coolsnowwolf/lede)，[ImmortalWRT团队](https://github.com/immortalwrt/immortalwrt)，[Kiddin9大神](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)，[Lienol大神](https://github.com/lienol/openwrt)，[sbwml大神](https://github.com/sbwml)。
   * 感谢其他开源APP插件作者。再此不一一列举。
   * 感谢Jerrykuku大神提供的[Argon主题](https://github.com/jerrykuku/luci-theme-argon.git)，OprX默认使用该主题。
   * 感谢123盘云储存、阿里云储存和github提供快捷的储存以及编译服务。
